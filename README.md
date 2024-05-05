@@ -109,3 +109,9 @@ Requirements
   
 * Ensure that your computer has Bluetooth functionality enabled and that it is discoverable.
 * If you encounter any issues or have questions, refer to the documentation or contact support.
+
+## Contact Information
+
+- **Company Name:** Microsense Vision Co. Ltd.
+- **Website:** [www.msviso.com](https://www.msviso.com)
+- **Contact Email:** [info@msviso.com](mailto:info@msviso.com)
